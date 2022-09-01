@@ -155,7 +155,7 @@
                                                 placeholder="Sampai tanggal">
                                             </div>
                                             <div class="col-md-3">
-                                                <button type="button" class="btn btn-success" onClick="filterChart()">Filter</button>
+                                                <button type="button" class="btn btn-primary" onClick="filterChart()">View</button>
                                             </div>
                                         </div>
                                         <div class="row">
